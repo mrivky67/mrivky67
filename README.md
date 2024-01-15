@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rivky</h1>
-<h3 align="center">About Me</h3>
+<h3 align="center">About Me<br>Nothing Special About Me</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrivky67&label=Profile%20views&color=0e75b6&style=flat" alt="mrivky67" /> </p>
 
